@@ -1,5 +1,6 @@
-# Getting Started with Create React App
 
+# Getting Started with Create React App
+This app is live on: https://gymforlife.pages.dev/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
